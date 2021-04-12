@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Ivan's GitHub stats](https://github-readme-stats.vercel.app/api?username=likelitchi&show_icons=true&count_private=true&theme=tokyonight)
+![likeltichi's GitHub stats](https://github-readme-stats.vercel.app/api?username=likelitchi&include_all_commits=true&show_icons=true&count_private=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=likelitchi)
 
