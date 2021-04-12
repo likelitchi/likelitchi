@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-![likeltichi's GitHub stats](https://github-readme-stats.vercel.app/api?username=likelitchi&include_all_commits=true&show_icons=true&count_private=true&theme=tokyonight)
+![likeltichi's GitHub stats](https://github-readme-stats.vercel.app/api?username=likelitchi&include_all_commits=true&count_private=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=likelitchi)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=likelitchi&layout=compact)
 
-<!-- (https://github.com/likelitchi/github-readme-stats) -->
+<!-- (https://github.com/anuraghazra/github-readme-stats) -->
 
 
 <!--
