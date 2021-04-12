@@ -1,9 +1,15 @@
 ### Hi there 👋
 
+![Ivan's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=likelitchi)
+
+<!-- (https://github.com/likelitchi/github-readme-stats) -->
+
+
 <!--
 **likelitchi/likelitchi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-[![Ivan's GitHub stats](https://github-readme-stats.vercel.app/api?username=likelitchi)](https://github.com/anuraghazra/github-readme-stats)
 
 Here are some ideas to get you started:
 
